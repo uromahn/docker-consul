@@ -1,6 +1,7 @@
 # Consul in Docker
 
-Looking for what used to be `progrium/consul`? Look in the `legacy` branch.
+This is a fork from https://github.com/gliderlabs/docker-consul to create Docker images based on Ubuntu 14.04 (Trusty).
+While Alpine is great and produces really small images, it is nevertheless not supported in many organizations.
 
 ## License
 
